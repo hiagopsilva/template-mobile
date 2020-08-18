@@ -1,11 +1,9 @@
 <h1 align="center">Welcome to Template Mobile 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/Template Mobile" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/Template Mobile.svg">
-  </a>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Este repositório é um template mobile com React Native, Typescript( e umas libs adicionais ) para utilizar em projetos.
+> Este repositório é um template mobile com React Native, Typescript ( e umas libs adicionais ) para utilizar em projetos.
 
 ## Install
 
